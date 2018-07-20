@@ -2,11 +2,11 @@
 
 An Angular app that show dummy data about countries. This app was developed following the [tutorial series](https://code.tutsplus.com/series/creating-your-first-angular-app--cms-1248) of Monty Shokeen
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+
 ![img](https://i.imgur.com/rFtZ3UI.png)
 
 ![img](https://i.imgur.com/jEHqYya.png)
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
 
