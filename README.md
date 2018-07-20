@@ -4,8 +4,6 @@ An Angular app that show dummy data about countries. This app was developed foll
 
 ![img](https://i.imgur.com/rFtZ3UI.png)
 
-![img](https://i.imgur.com/QxbmfEk.png)
-
 ![img](https://i.imgur.com/jEHqYya.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
